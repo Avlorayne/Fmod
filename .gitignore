@@ -1,0 +1,12 @@
+# User-supplied FMOD native libraries must never be published.
+platforms/*/lib/
+platforms/*/lib.meta
+staging/
+staging.meta
+Cache/
+Cache.meta
+Resources/
+Resources.meta
+__pycache__/
+*.tgz
+.DS_Store

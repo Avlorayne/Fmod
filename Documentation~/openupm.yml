@@ -1,0 +1,16 @@
+# Reference metadata for the user's OpenUPM submission after publishing this repository.
+name: com.dotline.fmod
+displayName: FMOD for Unity (Dotline)
+description: FMOD 2.03.14 Unity integration source with a local native-library installer.
+repoUrl: 'https://github.com/Avlorayne/Fmod'
+parentRepoUrl: 'https://github.com/fmod/fmod-for-unity'
+licenseSpdxId: MIT
+licenseName: MIT License
+topics:
+  - audio
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: '1.0.0'
+image: null
+readme: 'main:README.md'
+hunter: Avlorayne

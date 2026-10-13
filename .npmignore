@@ -1,0 +1,12 @@
+.git
+.gitignore
+platforms/*/lib/
+platforms/*/lib.meta
+staging/
+staging.meta
+Cache/
+Cache.meta
+Resources/
+Resources.meta
+__pycache__/
+*.tgz

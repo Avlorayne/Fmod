@@ -1,0 +1,35 @@
+{
+  "name": "com.dotline.fmod",
+  "displayName": "FMOD for Unity (Dotline)",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "FMOD 2.03.14 Unity integration source with a local native-library installer. Native libraries must be obtained separately from FMOD.",
+  "license": "MIT",
+  "keywords": [
+    "fmod",
+    "audio",
+    "sound",
+    "middleware"
+  ],
+  "dependencies": {
+    "com.unity.timeline": "1.7.7",
+    "com.unity.addressables": "1.22.3",
+    "com.unity.scriptablebuildpipeline": "1.21.25",
+    "com.unity.visualscripting": "1.9.4",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0"
+  },
+  "author": {
+    "name": "Avlorayne / Dotline",
+    "url": "https://github.com/Avlorayne"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Avlorayne/Fmod.git"
+  },
+  "documentationUrl": "https://github.com/Avlorayne/Fmod#readme",
+  "changelogUrl": "https://github.com/Avlorayne/Fmod/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Avlorayne/Fmod/blob/main/LICENSE"
+}
